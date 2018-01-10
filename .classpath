@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/rixietiffany/Documents/Apps/Code/Java/Karel the robot/Assignments/Assignment2/acm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
